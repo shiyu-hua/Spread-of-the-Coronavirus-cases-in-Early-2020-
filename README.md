@@ -1,6 +1,6 @@
-# Data-Science-Project-Covid19-Cases
-Purpose: Understand the global trend and find insights about the prediction of the number of cases in the future
+# Spread-of-the-Coronavirus-cases-in-Early-2020 
+Problem: Understand the global trend and find insights about the prediction of the number of cases in the future
 
-Approach: Gather data from JHU and World Bank, cleanse and merge dataset into an integrated dataset, fit data with a logistic curve to estimate future trends and end day. 
+Approach: Gathered data from JHU and World Bank, cleansed and merged dataset into an integrated dataset, and fit data with a logistic curve to estimate future trends and end day. 
 
-Result: Based on the given data, logistic fit is a reasonable model and a good prediction of the number of cases in the future. 
+Result: The logistic fit is a reasonable model and a good prediction of the number of cases in the future. 
